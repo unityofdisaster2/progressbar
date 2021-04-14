@@ -1,0 +1,14 @@
+.container {
+  background-color: grey;
+  width: 100%;
+}
+
+.progressbar {
+  background-color: green;
+  width: 1%;
+  height: 50px;
+}
+
+#progressButton {
+  margin-top: 10px;
+}
